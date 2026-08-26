@@ -8,6 +8,7 @@ host bằng GitHub Pages.
 | Melomelo: Fruit Merge Puzzle | `com.quangstudio.melomelo` | [privacy policy](melomelo/privacy-policy.html) |
 | Merge Weapon Tower Defense | `com.quangstudio.mergeweapontd` | [privacy policy](merge-weapon-td/privacy-policy.html) |
 | Stadium Rush: Idle Sports Arena | `com.quangstudio.stadiumrush` | [privacy policy](stadium-rush/privacy-policy.html) · [terms](stadium-rush/terms.html) |
+| Tidy Desk ASMR: School & Office | `com.quangstudio.tidydesk` | [privacy policy](tidydesk/privacy-policy.html) · [terms](tidydesk/terms.html) · [trang giới thiệu](tidydesk/index.html) |
 
 `app-ads.txt` ở thư mục gốc dùng chung cho mọi app cùng publisher
 `pub-1010732178473752` — khai website này ở Play Console ▸ Store settings ▸
@@ -15,3 +16,8 @@ Contact details để AdMob verify.
 
 Nguồn của các trang Stadium Rush: `unity/stadium-rush/docs/*.html`
 (bản Markdown nằm cạnh đó). Sửa ở repo game rồi copy sang đây.
+
+Trang Tidy Desk ASMR **không sửa tay ở đây** — chạy
+`python3 tools/make-site.py` trong `unity/tidy-desk-asmr`, script ghi thẳng cả
+`tidydesk/` này lẫn bản `docs/` trong repo game từ một nguồn duy nhất
+(`python3 tools/make-site.py --check` báo lỗi nếu hai bên lệch nhau).
