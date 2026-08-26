@@ -6,6 +6,7 @@ host bằng GitHub Pages.
 | Game | Package | Trang |
 |---|---|---|
 | Melomelo: Fruit Merge Puzzle | `com.quangstudio.melomelo` | [privacy policy](melomelo/privacy-policy.html) |
+| Merge Weapon Tower Defense | `com.quangstudio.mergeweapontd` | [privacy policy](merge-weapon-td/privacy-policy.html) |
 | Stadium Rush: Idle Sports Arena | `com.quangstudio.stadiumrush` | [privacy policy](stadium-rush/privacy-policy.html) · [terms](stadium-rush/terms.html) |
 
 `app-ads.txt` ở thư mục gốc dùng chung cho mọi app cùng publisher
