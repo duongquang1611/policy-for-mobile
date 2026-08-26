@@ -5,9 +5,9 @@ host bằng GitHub Pages.
 
 | Game | Package | Trang |
 |---|---|---|
-| Melomelo: Fruit Merge Puzzle | `com.quangstudio.melomelo` | [privacy policy](melomelo/privacy-policy.html) |
+| Melomelo: Fruit Merge Puzzle | `com.melomelo.gemini` | [privacy policy](melomelo/privacy-policy.html) |
 | Merge Weapon Tower Defense | `com.quangstudio.mergeweapontd` | [privacy policy](merge-weapon-td/privacy-policy.html) |
-| Stadium Rush: Idle Sports Arena | `com.quangstudio.stadiumrush` | [privacy policy](stadium-rush/privacy-policy.html) · [terms](stadium-rush/terms.html) |
+| Stadium Rush: Idle Sports Arena | `com.stadiumrush.gemini` | [privacy policy](stadium-rush/privacy-policy.html) · [terms](stadium-rush/terms.html) |
 | Tidy Desk ASMR: School & Office | `com.tidydesk.gemini` | [privacy policy](tidydesk/privacy-policy.html) · [terms](tidydesk/terms.html) · [trang giới thiệu](tidydesk/index.html) |
 | Pet Clinic Jam | `com.petclinicjam.gemini` | [privacy policy](pet-clinic-jam/privacy-policy.html) · [terms](pet-clinic-jam/terms.html) |
 
