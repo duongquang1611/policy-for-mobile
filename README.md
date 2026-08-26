@@ -9,7 +9,7 @@ host bằng GitHub Pages.
 | Merge Weapon Tower Defense | `com.quangstudio.mergeweapontd` | [privacy policy](merge-weapon-td/privacy-policy.html) |
 | Stadium Rush: Idle Sports Arena | `com.quangstudio.stadiumrush` | [privacy policy](stadium-rush/privacy-policy.html) · [terms](stadium-rush/terms.html) |
 | Tidy Desk ASMR: School & Office | `com.quangstudio.tidydesk` | [privacy policy](tidydesk/privacy-policy.html) · [terms](tidydesk/terms.html) · [trang giới thiệu](tidydesk/index.html) |
-| Pet Clinic Jam | `com.quangstudio.petclinicjam` | [privacy policy](pet-clinic-jam/privacy-policy.html) · [terms](pet-clinic-jam/terms.html) |
+| Pet Clinic Jam | `com.petclinicjam.gemini` | [privacy policy](pet-clinic-jam/privacy-policy.html) · [terms](pet-clinic-jam/terms.html) |
 
 `app-ads.txt` ở thư mục gốc dùng chung cho mọi app cùng publisher
 `pub-1010732178473752` — khai website này ở Play Console ▸ Store settings ▸
